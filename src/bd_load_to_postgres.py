@@ -1,0 +1,1 @@
+print("This script will load data from csv and then push to postgreSQL")
